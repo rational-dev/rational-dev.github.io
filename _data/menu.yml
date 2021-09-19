@@ -1,7 +1,30 @@
 entries:
+  - title: Planning
+    entries:
+      - title: "<a href='/planning/requirements.html'>Requirements</a>"
+      - title: "<a href='/planning/estimations.html'>Estimations</a>"
+
+  - title: Architecture
+    entries:
+      - title: "<a href='/architecture/decomposition.html'>Decomposition</a>"
+      - title: "<a href='/architecture/modules.html'>Modules</a>"
+
+  - title: Style
+    entries:
+      - title: "<a href='/style/usefulness.html'>Usefulness</a>"
+      - title: "<a href='/style/enforcement.html'>Enforcement</a>"
+
   - title: Code Review
     entries:
-      - title: "<a href='/code-review/ethics.html'>ethics</a>"
+      - title: "<a href='/code-review/assignment.html'>Assignment</a>"
+      - title: "<a href='/code-review/ethics.html'>Ethics</a>"
+
+  - title: Team
+    entries:
+      - title: "<a href='/team/structure.html'>Structure</a>"
+      - title: "<a href='/team/interaction.html'>Interaction</a>"
+      - title: "<a href='/team/hiring.html'>Finding right people</a>"
+      - title: "<a href='/team/vacations.html'>Vacations</a>"
 
   - title: blog
     post_list: true
