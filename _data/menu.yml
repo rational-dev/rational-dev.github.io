@@ -1,0 +1,7 @@
+entries:
+  - title: Code Review
+    entries:
+      - title: "<a href='/code-review/ethics.html'>ethics</a>"
+
+  - title: blog
+    post_list: true
