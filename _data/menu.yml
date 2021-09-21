@@ -24,7 +24,7 @@ entries:
       - title: "<a href='/team/structure.html'>Structure</a>"
       - title: "<a href='/team/interaction.html'>Interaction</a>"
       - title: "<a href='/team/hiring.html'>Finding right people</a>"
-      - title: "<a href='/team/vacations.html'>Vacations</a>"
+      - title: "<a href='/team/timeoff.html'>Time off</a>"
 
   - title: Security
     entries:
