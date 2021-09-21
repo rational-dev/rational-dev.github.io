@@ -26,5 +26,8 @@ entries:
       - title: "<a href='/team/hiring.html'>Finding right people</a>"
       - title: "<a href='/team/vacations.html'>Vacations</a>"
 
+  - title: Security
+    entries:
+      - title: "<a href='/security/planning.html'>Planning</a>"
   - title: blog
     post_list: true
